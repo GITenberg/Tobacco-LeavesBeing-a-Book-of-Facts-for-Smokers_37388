@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '38816'
     url: http://www.gutenberg.org/2009/agents/38816
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37388#Tobacco-LeavesBeing-a-Book-of-Facts-for-Smokers
 gutenberg_issued: '2011-09-11'
 gutenberg_type: Text
 identifiers:
