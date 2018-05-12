@@ -1,0 +1,27 @@
+_repo: Tobacco-LeavesBeing-a-Book-of-Facts-for-Smokers_37388
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37388-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brennan, William Augustine
+    alias: Brennan, W. A. (William Augustine)
+    birthdate: 1867
+    gutenberg_agent_id: '38816'
+    url: http://www.gutenberg.org/2009/agents/38816
+description: ''
+gutenberg_issued: '2011-09-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37388'
+  lccn: '16001766'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tobacco'
+- !lcc 'SB'
+title: 'Tobacco Leaves: Being a Book of Facts for Smokers'
+url: http://www.gutenberg.org/ebooks/37388
